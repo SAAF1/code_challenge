@@ -2,23 +2,28 @@
   box-sizing: border-box;
 }
 .background {
+  width: 934 px;
   width: 334 px;
-  height: 667 px;
+  font-family: serif;
+  font-color:black;
+  /* height: 667 px; */
   background-color: #F8F8F8;
-  /* background-color: black; */
 }
 .container {
   margin: 0 auto;
   width: 334px;
   height: 5px;
+  padding-top: 10px;
+  text-align: center;
 }
-.rectangle{
+ .rectangle{
   border-style:solid;
-  /* border-top-width: 334px; */
+  border-top-width: 334px;
+
   border-width: thin;
   /* height:5px; */
   border-style:solid;
-  border-color:gray;
+  border-color:black;
 }
 /* .rectangle::after{
   clear:both;
@@ -28,13 +33,16 @@
 .arrow-left{
   color:blue;
 }
+.styleblue{
+  color:blue;
+}
 .style{
     		list-style-type: none;
     		overflow: hidden;
-    		background-color: #333;
-    		float: left;
+    		/* background-color: #333; */
+    		float: block;
     		display: block;
-    		color: white;
+    		/* color: blue; */
     		text-align: center;
     		padding: 16px 16px;
     		text-decoration: none;
