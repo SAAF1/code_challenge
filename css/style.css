@@ -14,7 +14,7 @@
 }
 .rectangle{
   border-style:solid;
-  border-top-width: 341px;
+  /* border-top-width: 334px; */
   border-width: thin;
   /* height:5px; */
   border-style:solid;
@@ -28,21 +28,23 @@
 .arrow-left{
   color:blue;
 }
-.content {
+.style{
+    		list-style-type: none;
+    		overflow: hidden;
+    		background-color: #333;
+    		float: left;
+    		display: block;
+    		color: white;
+    		text-align: center;
+    		padding: 16px 16px;
+    		text-decoration: none;
+		};
+/* .content {
   float:left;
-  display: block;
-  /* width:10%; */
+  display: inline;
   padding-left: 10px;
   margin-bottom: 5px;
-  /* width:10px; */
-  /* display:block; */
-  /* width:19%; */
-  /* padding-left:10px; */
   padding-top: 36px;
-  /* width: 420px; */
   border-style: solid;
   border-bottom-width: thin;
-
-  /* margin-bottom: 0px; */
-
-}
+} */
