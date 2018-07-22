@@ -20,6 +20,11 @@
   border-style:solid;
   border-color:gray;
 }
+/* .rectangle::after{
+  clear:both;
+  display:table;
+  content: "";
+} */
 .arrow-left{
   color:blue;
 }
@@ -27,8 +32,9 @@
   float:left;
   display: inline;
   /* width:10%; */
-  padding-left: 10px;
+  padding-left: 20px;
   margin-bottom: 0px;
+  /* width:10px; */
   /* display:block; */
   /* width:19%; */
   /* padding-left:10px; */
