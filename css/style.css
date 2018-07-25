@@ -138,11 +138,10 @@
 .widthS{
   width:81px;
 }
-.borderBottom{
+.line-bottom{
+  border-bottom:3px solid black;
+}
+/* .borderBottom{
   border-style:solid;
   border-bottom: thin;
-}
-ul li{
-  border-style: solid;
-  border-bottom: thin;
-}
+} */
