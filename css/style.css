@@ -46,11 +46,18 @@
 .mypadLeft{
   padding-left:75px;
 }
+.mypadTop{
+  padding-top:10px;
+  padding-left: 35px;
+}
+.myPadCancel{
+
+}
 
 .afterline:after{
 	content: ".";
 	display: block;
-	height: 0;
+	height: 5px;
 	clear: both;
 	visibility: hidden;
 }
