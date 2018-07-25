@@ -24,6 +24,9 @@
   /* height: 5px; */
   padding-top: 10px;
 }
+.content{
+  color:black;
+}
 .alignL{
   text-align: left;
   clear:left;
@@ -44,14 +47,20 @@
   padding-left: 20px;
 }
 .mypadLeft{
-  padding-left:75px;
+  padding-left:55px;
+}
+.mypadRight{
+  padding-right: 25px;
 }
 .mypadTop{
   padding-top:10px;
-  padding-left: 35px;
+  padding-left: 22px;
 }
-.myPadCancel{
-
+.headerFont{
+  font-size: 15px;
+}
+.minorFont{
+  font-size: 12px;
 }
 
 .afterline:after{
