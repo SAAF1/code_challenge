@@ -104,7 +104,8 @@
 .clear{
   clear:left;
 }
-ul li {
+/*Commented out to change to horizontal columns  */
+/* ul li {
   float: left;
   clear:left;
   padding:3px;
@@ -112,8 +113,8 @@ ul li {
   border-bottom: solid;
   border-width: thin;
   border-color: gray;
-  border-length:10px; /* border-width: 100%; */
-      }
+  border-length:10px;
+      } */
 .style{
     		list-style-type: none;
     		overflow: hidden;
@@ -121,12 +122,27 @@ ul li {
     		padding: 16px 16px ;
     		text-decoration: none;
 		};
-/* .content {
+
+
+    /*NEW using horizontal lines  */
+.floatL{
   float:left;
-  display: inline;
-  padding-left: 10px;
-  margin-bottom: 5px;
-  padding-top: 36px;
+  /* clear:both; */
+}
+.floatR{
+  float:right;
+}
+.displayStyle{
+  display:inline-block;;
+}
+.widthS{
+  width:81px;
+}
+.borderBottom{
+  border-style:solid;
+  border-bottom: thin;
+}
+ul li{
   border-style: solid;
-  border-bottom-width: thin;
-} */
+  border-bottom: thin;
+}
