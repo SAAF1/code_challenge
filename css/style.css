@@ -6,7 +6,7 @@
   font-family: serif;
   font-color:black;
   font-size:12px;
-  /* height: 667 px; */
+
   background-color: #F8F8F8;
 
 }
@@ -32,7 +32,7 @@
   clear:left;
 }
 .alignC{
-  text-align: center;
+  align: center;
   clear:both;
 }
 .alignR{
@@ -44,7 +44,7 @@
   padding-right:100px;
 }
 .mypadL{
-  padding-left: 20px;
+  padding-left: 70px;
 }
 .mypadLeft{
   padding-left:55px;
@@ -57,10 +57,10 @@
   padding-left: 22px;
 }
 .headerFont{
-  font-size: 15px;
+  font-size: 17px;
 }
 .minorFont{
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .afterline:after{
@@ -76,18 +76,7 @@
 .clearBoth{
   clear:both;
 }
- /* .rectangle{
-  border-style:solid;
-  border-top-width: 334px;
-  border-width: thin;
-  border-style:solid;
-  border-color:black;
-} */
-/* .rectangle::after{
-  clear:both;
-  display:table;
-  content: "";
-} */
+
 .arrow-left{
   color:blue;
 }
@@ -98,23 +87,12 @@
   float:left;
   clear:right;
 
-  /* margin-right: 10px: */
-  /* display:inline; */
+
 }
 .clear{
   clear:left;
 }
-/*Commented out to change to horizontal columns  */
-/* ul li {
-  float: left;
-  clear:left;
-  padding:3px;
-  padding-top:20px;
-  border-bottom: solid;
-  border-width: thin;
-  border-color: gray;
-  border-length:10px;
-      } */
+
 .style{
     		list-style-type: none;
     		overflow: hidden;
@@ -127,10 +105,18 @@
     /*NEW using horizontal lines  */
 .floatL{
   float:left;
-  /* clear:both; */
+  clear:both;
 }
 .floatR{
   float:right;
+  text-align: right;
+  clear:both;
+}
+.padRightColumn{
+  padding-right: 13px;
+}
+.widthReroute{
+  width: 130px;
 }
 .displayStyle{
   display:inline-block;;
@@ -138,10 +124,22 @@
 .widthS{
   width:81px;
 }
-.line-bottom{
-  border-bottom:3px solid black;
+.widthLarge{
+  width:130px;
 }
-/* .borderBottom{
-  border-style:solid;
-  border-bottom: thin;
-} */
+.widthSmall{
+  width:50px;
+}
+.line-bottom{
+  border-bottom: 3px solid black;
+}
+.padRightTime{
+  padding-right: 110px;
+}
+.padLeftCancel{
+  padding-left: 25px;
+}
+.padTopBottom{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
