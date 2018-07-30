@@ -71,6 +71,16 @@ nav{
   float:right;
   width:17%;
 }
+.col4Reroute{
+  float:right;
+  /* text-align:right; */
+  width:25%;
+}
+.col4NoService{
+  float:right;
+  /* text-align:right; */
+  width:30%;
+}
 .row{
   clear:both;
   border-bottom: .7px   solid #eee;
@@ -94,7 +104,7 @@ h2{
   margin-top: 5px;
 }
 .map{
-  background-image: url(https://drive.google.com/open?id=1igPenICIxncQb_bKLvclwHzcgxZXbNuv);
+  background-image: url("../map.png");
   background-image: cover;
   height: 71px;
   background-position: top left;
