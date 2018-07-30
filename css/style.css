@@ -14,6 +14,7 @@ body{
 .statusbar{
   margin: 8px;
   margin-bottom: 10px;
+  margin-top: 10px;
   background-color: #F8F8F8;
 }
 
@@ -38,11 +39,7 @@ body{
   float:right;
   margin-right: 1%;
 }
-/* .fa-chevron-left{
-  color:blue;
-  float:left;
-  width:10%
-} */
+
 .fa-angle-left{
   color:blue;
   float:left;
@@ -53,15 +50,7 @@ nav{
   background-color: #F8F8F8;
   padding: 10px;
 }
-/* .background {
-  width: 334 px;
-  font-family: serif;
-  color:black;
-  font-size:12px;
 
-  background-color: #F8F8F8;
-
-} */
 .col1{
   float:left;
   width:17%;
@@ -85,8 +74,8 @@ nav{
 }
 .col4NoService{
   float:right;
-  /* text-align:right; */
-  width:26%;
+
+  width:32%;
 }
 .col4Resumes{
   float:right;
@@ -107,7 +96,7 @@ h1{
 }
 h2{
   font-size: 15px;
-  width: 20%;
+  /* width: 20%; */
   color:blue;
 }
 .cancel{
@@ -125,137 +114,4 @@ h2{
 
 .list{
   background-color: #F8F8F8
-}
-.blue{
-  color:blue;
-}
-.black{
-  color:black;
-}
-/* .container {
-  overflow: hidden;
-  margin: 0 auto;
-
-  width:334px;
-
-  padding-top: 10px;
-} */
-.content{
-  color:black;
-}
-.alignL{
-  text-align: left;
-  clear:left;
-}
-.alignC{
-  align: center;
-  clear:both;
-}
-.alignR{
-  text-align: right;
-  float:right;
-  clear:both;
-}
-.mypadR{
-  padding-right:100px;
-}
-.mypadL{
-  padding-left: 70px;
-}
-.mypadLeft{
-  padding-left:55px;
-}
-.mypadRight{
-  padding-right: 25px;
-}
-.mypadTop{
-  padding-top:10px;
-  padding-left: 22px;
-}
-.headerFont{
-  font-size: 17px;
-}
-.minorFont{
-  font-size: 14px;
-}
-
-.afterline:after{
-	content: ".";
-	display: block;
-	height: 5px;
-	clear: both;
-	visibility: hidden;
-}
-.fa-chevron-left {
-  color: blue;
-}
-.clearBoth{
-  clear:both;
-}
-
-.arrow-left{
-  color:blue;
-}
-.styleblue{
-  color:blue;
-}
-.float{
-  float:left;
-  clear:right;
-
-
-}
-.clear{
-  clear:left;
-}
-
-.style{
-    		list-style-type: none;
-    		overflow: hidden;
-        /* margin-right:10px;  */
-    		padding: 16px 16px ;
-    		text-decoration: none;
-		};
-
-
-    /*NEW using horizontal lines  */
-.floatL{
-  float:left;
-  clear:both;
-}
-.floatR{
-  float:right;
-  text-align: right;
-  clear:both;
-}
-.padRightColumn{
-  padding-right: 13px;
-}
-.widthReroute{
-  width: 130px;
-}
-.displayStyle{
-  display:inline-block;;
-}
-.widthS{
-  width:81px;
-}
-.widthLarge{
-  width:130px;
-}
-.widthSmall{
-  width:50px;
-}
-.line-bottom{
-  border-bottom: 3px solid black;
-}
-.padRightTime{
-  padding-right: 110px;
-}
-.padLeftCancel{
-  padding-left: 25px;
-}
-.padTopBottom{
-  padding-top: 10px;
-  padding-bottom: 10px;
 }
