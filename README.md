@@ -1,4 +1,4 @@
-Projects for my Portfolio
+Busy because
 
 In this project I finished the final part in a three part project called Busy Bus. This was the project brief:
 
@@ -11,7 +11,7 @@ Transit officials have identified a problem they would like to solve. Due to exp
 
 Riders are currently complaining the most about the bus stop at Washington and State, which has seven bus lines serving the stop.
 
-Here's my work, divided my section.
+Here's my work, divided by sections.
   Part One: UX Fundamentals.
 
     A) Surveys: Link:https://docs.google.com/forms/d/11tB_mX3lE2PrFgCL-DfT6OyKRllCP_lng6DSK6BZ9Qw/edit?usp=sharing
@@ -27,10 +27,10 @@ Here's my work, divided my section.
 
   Part Two: Visual Design.
 
-    A) Create a digital, high fidelity mockup of one of the three screens I created. The mockup followed the human-interfaces guidelines for iOS: https://www.figma.com/file/on1B5hZhksJwKDknynzuzV/iOS-11-GUI-%E2%80%93-iPhone-8-by-Great-Simple-Studio-Screens-Copy?node-id=18177%3A0
+    A) Created a digital, high fidelity mockup from one of the three screens I designed. The mockup followed the human-interfaces guidelines for iOS: https://www.figma.com/file/on1B5hZhksJwKDknynzuzV/iOS-11-GUI-%E2%80%93-iPhone-8-by-Great-Simple-Studio-Screens-Copy?node-id=18177%3A0
 
   Part Three: Code.
 
-    A) I recreate the visual design in code. Here's what my coded project looked like:
+    A) I recreated the visual design in code. Here's what my coded project looked like:
 
-    <img class="imageformat tpadding-sixt" alt="Self Portrait of Author" src=screen_shot.png">
+    <img  alt="photo of coded busy bus screen" src=screen_shot.png">
